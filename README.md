@@ -7,11 +7,7 @@ Built with SwiftUI. Requires Xcode 15+, iOS 17+.
 ---
 
 <p align="center">
-  <img src="screenshot-question.jpg" width="28%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshot-answer.jpg" width="28%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshot-swipe.jpg" width="28%">
+  <video src="https://github.com/christopherkmoore/InterviewFlashcards/raw/main/demo.mp4" autoplay loop muted playsinline width="320"></video>
 </p>
 
 ---
